@@ -11,7 +11,7 @@ Upon running the program promts you to enter each one of the Rover’s parameter
 V - to indicate the Rover is facing south
 < - to indicate the Rover is facing west
 
-Additionally, I have included a RoverTest.java JUnit 5 test class to test whether the Rover is facing in correct direction after rotating each time.
+Additionally, I have included a RoverTest.java JUnit 5 test class to test whether the Rover is facing in correct direction after rotating each time. I selected this testing strategy as I believe that ensuring that the Rover is facing the right direction is the most error-prone section of the program. It is most likely the yield result which deviate from those expected.
 
 Enjoy!
 
